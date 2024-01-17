@@ -1,6 +1,6 @@
 //
-//  File.swift
-//  
+//  Functions.swift
+//  ETCore
 //
 //  Created by Emrah Turan on 12.01.2024.
 //
