@@ -1,4 +1,4 @@
 # ETCore
 
-For detailed usage, you can review the [Wiki](https://github.com/emrahturan/ETCore/wiki) page.
-
+It is an SPM library containing extensions that I use frequently during development.
+- See the [Wiki](https://github.com/emrahturan/ETCore/wiki) for full documentation.
