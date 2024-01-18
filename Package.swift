@@ -4,17 +4,17 @@
 import PackageDescription
 
 let package = Package(
-    name: "ETCore",
+    name: "SwiftUtilityKit",
     products: [
         .library(
-            name: "ETCore",
-            targets: ["ETCore"]),
+            name: "SwiftUtilityKit",
+            targets: ["SwiftUtilityKit"]),
     ],
     targets: [
         .target(
-            name: "ETCore"),
+            name: "SwiftUtilityKit"),
         .testTarget(
-            name: "ETCoreTests",
-            dependencies: ["ETCore"]),
+            name: "SwiftUtilityKitTests",
+            dependencies: ["SwiftUtilityKit"]),
     ]
 )

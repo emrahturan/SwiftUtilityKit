@@ -1,6 +1,6 @@
 //
 //  Functions.swift
-//  ETCore
+//  SwiftUtilityKit
 //
 //  Created by Emrah Turan on 12.01.2024.
 //

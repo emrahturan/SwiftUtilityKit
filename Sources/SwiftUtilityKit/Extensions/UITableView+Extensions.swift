@@ -1,6 +1,6 @@
 //
 //  UITableView+Extensions.swift
-//  ETCore
+//  SwiftUtilityKit
 //
 //  Created by Emrah Turan on 14.01.2024.
 //

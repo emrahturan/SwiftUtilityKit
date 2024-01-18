@@ -1,7 +1,7 @@
 import XCTest
-@testable import ETCore
+@testable import SwiftUtilityKit
 
-final class ETCoreTests: XCTestCase {
+final class SwiftUtilityKitTests: XCTestCase {
     func testExample() throws {
         // XCTest Documentation
         // https://developer.apple.com/documentation/xctest
