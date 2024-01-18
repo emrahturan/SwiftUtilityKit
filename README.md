@@ -1,7 +1,6 @@
 # SwiftUtilityKit
 
-It is an SPM library containing extensions that I use frequently during development.
-- See the [Wiki](https://github.com/emrahturan/SwiftUtilityKit/wiki) for full documentation.
+It is a library that encompasses frequently utilized extensions throughout the development phase.
 
 
 ## Installation
@@ -13,3 +12,14 @@ dependencies: [
   .package(url: "https://github.com/emrahturan/SwiftUtilityKit.git", from: "0.0.3")
 ]
 ```
+
+
+## Usage
+
+Import SwiftUtilityKit in proper place.
+
+```swift
+import SwiftUtilityKit
+```
+
+See the [Wiki](https://github.com/emrahturan/SwiftUtilityKit/wiki) for full documentation.
